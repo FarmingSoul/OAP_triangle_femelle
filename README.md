@@ -7,3 +7,4 @@
 - 11/11/21 ajout d'un repertoire CAO
 - 11/11/21 ajout d'un repertoire nomenclature
 - 11/11/21 ajout d'un repertoire Video
+- 11/11/21 ajout d'un repertoire Plans
